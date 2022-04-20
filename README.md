@@ -1,6 +1,8 @@
 # hello-world
 ## McChuck05's warehouse for Esolang strangeness
 
+### [Subleq](https://esolangs.org/wiki/Subleq) derivatives
+
 **OISC:2**  Obfuscated Indirect Subleq with Coprocessor: 2 word instructions
 >Usage:  python oisc2.py posmem.o2c negmem.o2c
 >
