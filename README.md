@@ -1,7 +1,7 @@
 # hello-world
 ## McChuck05's warehouse for [Esolang](https://esolangs.org/wiki/Main_Page) strangeness
 
-Check out [Truttle1](https://www.youtube.com/c/Truttle1) for esolang videos.
+Check out [Truttle1](https://www.youtube.com/c/Truttle1)'s esolang videos.
 
 ### [Subleq](https://esolangs.org/wiki/Subleq) derivatives
 
